@@ -16,6 +16,7 @@ preproc_test.py and preproc_train_val.py preprocess the testing and training ima
 
 
 category.csv - Contains mapping from celebrity name to numerical label
+
 train.csv - Contains ground truth labels for training/validation data
 
 training.py - Contains logic for training the prebuilt vgg16 neural network. Some code adapted from: https://www.kaggle.com/code/carloalbertobarbano/vgg16-transfer-learning-pytorch
