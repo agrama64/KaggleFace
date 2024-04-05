@@ -3,8 +3,11 @@ ECE 50024 Mini Challenge
 
 # FILES
 test - Raw Testing Data
+
 train - Raw Training Data
+
 test_proc - Testing Images preprocessed by preproc_test.py
+
 train_proc and val_proc - Training and Validation images preprocessed by preproc_train_val.py
 
 If you want to do your own preprocessing, you may have to delete test_proc, train_proc, and val_proc from your working directory
